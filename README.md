@@ -12,7 +12,7 @@ This repository showcases my journey in mastering Flutter and creating innovativ
 ---
 ## LOYALTY SYSTEM
 Loyalty programs are systems designed to gain the loyalty of new customers and reinforce the loyalty of existing customers.
-These programs reward customers with gifts and points that can be exchanged for offers and vouchers provided by
+These programs reward customers with gifts and points that can be exchanged for offers and vouchers provided by stores.
 ---
 ## Technologies -
 **Flutter 🦋** 
