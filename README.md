@@ -15,7 +15,6 @@ This repository showcases my journey in mastering Flutter and creating innovativ
 Loyalty programs are systems designed to gain the loyalty of new customers and reinforce the loyalty of existing customers.
 These programs reward customers with gifts and points that can be exchanged for offers and vouchers provided by stores.
 
----
 ## Technologies -
 - **Flutter 🦋** 
 - **Dart 💻**
@@ -25,3 +24,36 @@ These programs reward customers with gifts and points that can be exchanged for 
 - **shared_preferences 🔑**
 - **image_picker 📸**
 - **Clean Architecture 🔨**
+
+---
+## EVENT MANAGEMENT SYSTEM
+
+
+
+
+## Technologies -
+- **Flutter 🦋** 
+- **Dart 💻**
+- **lottie 🔥**
+- **pin_code_fields 💾**
+- **http 🔑**
+- **shared_preferences 🔑**
+- **image_picker 📸**
+- **Clean Architecture 🔨**
+
+
+---
+## E-store 
+
+
+## Technologies -
+- **Flutter 🦋** 
+- **Dart 💻**
+- **lottie 🔥**
+- **pin_code_fields 💾**
+- **http 🔑**
+- **shared_preferences 🔑**
+- **image_picker 📸**
+- **Clean Architecture 🔨**
+
+- 
