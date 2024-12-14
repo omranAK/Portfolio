@@ -17,7 +17,7 @@ These programs reward customers with gifts and points that can be exchanged for 
 
 ---
 ## Technologies -
-**Flutter 🦋** 
+- **Flutter 🦋** 
 - **Dart 💻**
 - **lottie 🔥**
 - **pin_code_fields 💾**
