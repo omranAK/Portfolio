@@ -10,12 +10,12 @@ This repository showcases my journey in mastering Flutter and creating innovativ
 - **Source Code & Documentation**: Dive into the well-structured codebase, detailed README files, and comprehensive documentation.
 - **Innovative Projects**: Explore a variety of projects ranging from productivity tools to creative apps, each designed to solve real-world problems.
 ---
-## LOYALTY SYSTEM
+## Loyalty System Mobile application
 
 Loyalty programs are systems designed to gain the loyalty of new customers and reinforce the loyalty of existing customers.
 These programs reward customers with gifts and points that can be exchanged for offers and vouchers provided by stores.
 
-## Technologies -
+## Technologies 
 - **Flutter 🦋** 
 - **Dart 💻**
 - **lottie 🔥**
@@ -26,12 +26,12 @@ These programs reward customers with gifts and points that can be exchanged for 
 - **Clean Architecture 🔨**
 
 ---
-## EVENT MANAGEMENT SYSTEM
+## e-commerce Mobile application 
 
 
 
 
-## Technologies -
+## Technologies 
 - **Flutter 🦋** 
 - **Dart 💻**
 - **lottie 🔥**
@@ -43,10 +43,10 @@ These programs reward customers with gifts and points that can be exchanged for 
 
 
 ---
-## E-store 
+## Event Management System Mobile application  
 
 
-## Technologies -
+## Technologies 
 - **Flutter 🦋** 
 - **Dart 💻**
 - **lottie 🔥**
@@ -56,4 +56,26 @@ These programs reward customers with gifts and points that can be exchanged for 
 - **image_picker 📸**
 - **Clean Architecture 🔨**
 
-- 
+---
+## university student marks app 
+
+
+
+
+
+
+
+
+
+---
+## compiler project (to convert dart code to html code) 
+
+
+
+
+
+
+
+
+---
+## search engine using python-fast
