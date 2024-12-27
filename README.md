@@ -18,9 +18,12 @@ These programs reward customers with gifts and points that can be exchanged for 
 ## Technologies 
 - **Flutter 🦋** 
 - **Dart 💻**
-- **lottie 🔥**
-- **pin_code_fields 💾**
+- **BLoC**
 - **http 🔑**
+- **Dio 🔑**
+- **fl_charts**
+- **pin_code_fields 💾**
+- **video_player** 
 - **shared_preferences 🔑**
 - **image_picker 📸**
 - **Clean Architecture 🔨**
@@ -34,11 +37,11 @@ These programs reward customers with gifts and points that can be exchanged for 
 ## Technologies 
 - **Flutter 🦋** 
 - **Dart 💻**
-- **lottie 🔥**
-- **pin_code_fields 💾**
+- **Provider**
 - **http 🔑**
 - **shared_preferences 🔑**
 - **image_picker 📸**
+- **Localization**
 - **Clean Architecture 🔨**
 
 
@@ -49,33 +52,37 @@ These programs reward customers with gifts and points that can be exchanged for 
 ## Technologies 
 - **Flutter 🦋** 
 - **Dart 💻**
-- **lottie 🔥**
-- **pin_code_fields 💾**
+- **Provider**
 - **http 🔑**
+- **firebase**
 - **shared_preferences 🔑**
-- **image_picker 📸**
-- **Clean Architecture 🔨**
 
 ---
 ## university student marks app 
 
-
-
-
-
-
-
+## Technologies 
+- **Java**
+- **INFORMATION SECURITY PRINCEPLES**
+- **Authentication/Authurization**
+- **Digital Signature**
+- **Encryption Algotithems**
+- **Socket**
+- **TCP/IP**
 
 
 ---
 ## compiler project (to convert dart code to html code) 
 
-
-
-
-
+- **Java**
+- **Antler**
 
 
 
 ---
 ## search engine using python-fast
+
+- **Information Retrival**
+- **Text Proccescing**
+- **python**
+- **fast-api**
+- 
