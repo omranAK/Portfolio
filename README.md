@@ -31,8 +31,9 @@ These programs reward customers with gifts and points that can be exchanged for 
 ---
 ## e-commerce Mobile application 
 
-
-
+It is a program that connects manufacturing companies with retail stores through a desktop application on one hand,
+and on the other hand, it connects these stores with customers through a mobile application,
+enabling customers to browse all products and purchase them.
 
 ## Technologies 
 - **Flutter 🦋** 
@@ -44,10 +45,10 @@ These programs reward customers with gifts and points that can be exchanged for 
 - **Localization**
 - **Clean Architecture 🔨**
 
-
 ---
 ## Event Management System Mobile application  
-
+The first real application I am creating using Flutter,
+where this application provides a wide range of tools to help users plan parties and events.
 
 ## Technologies 
 - **Flutter 🦋** 
@@ -60,15 +61,28 @@ These programs reward customers with gifts and points that can be exchanged for 
 ---
 ## university student marks app 
 
+A secure messaging system that allows university students to communicate with professors in a safe
+and encrypted manner by implementing information security principles such as encryption, digital signatures, and more. 
+
 ## Technologies 
 - **Java**
-- **INFORMATION SECURITY PRINCEPLES**
+- **Information security principles**
 - **Authentication/Authurization**
 - **Digital Signature**
 - **Encryption Algotithems**
 - **Socket**
 - **TCP/IP**
 
+---
+## search engine using python-fast
+
+A small search engine that focuses on topics of the user's choice to search with a 40% success rate.
+
+- **Information Retrival**
+- **Evalioation**
+- **Text Proccescing**
+- **python**
+- **fast-api**
 
 ---
 ## compiler project (to convert dart code to html code) 
@@ -77,12 +91,3 @@ These programs reward customers with gifts and points that can be exchanged for 
 - **Antler**
 
 
-
----
-## search engine using python-fast
-
-- **Information Retrival**
-- **Text Proccescing**
-- **python**
-- **fast-api**
-- 
