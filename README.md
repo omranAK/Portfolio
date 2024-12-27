@@ -80,7 +80,7 @@ A small search engine that focuses on topics of the user's choice to search with
 
 - **Information Retrival**
 - **Evalioation**
-- **Text Proccescing**
+- **Text Processing**
 - **python**
 - **fast-api**
 
