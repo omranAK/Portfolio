@@ -18,12 +18,12 @@ These programs reward customers with gifts and points that can be exchanged for 
 ## Technologies 
 - **Flutter 🦋** 
 - **Dart 💻**
-- **BLoC**
+- **BLoC 🧠**
 - **http 🔑**
 - **Dio 🔑**
-- **fl_charts**
+- **fl_charts 📊**
 - **pin_code_fields 💾**
-- **video_player** 
+- **video_player 🎥** 
 - **shared_preferences 🔑**
 - **image_picker 📸**
 - **Clean Architecture 🔨**
@@ -42,7 +42,7 @@ enabling customers to browse all products and purchase them.
 - **http 🔑**
 - **shared_preferences 🔑**
 - **image_picker 📸**
-- **Localization**
+- **Localization 🌐**
 - **Clean Architecture 🔨**
 
 ---
@@ -55,7 +55,7 @@ where this application provides a wide range of tools to help users plan parties
 - **Dart 💻**
 - **Provider**
 - **http 🔑**
-- **firebase**
+- **firebase 🔥**
 - **shared_preferences 🔑**
 
 ---
